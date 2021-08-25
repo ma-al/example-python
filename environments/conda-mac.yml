@@ -1,0 +1,7 @@
+name: example-python
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pylint
+  - pyyaml
