@@ -2,10 +2,10 @@
 This is an an example Python code repository for members of Australia's [Cyber Security Cooperative Research Centre](https://cybersecuritycrc.org.au/). This was featured in the CSCRC seminar on "Software Best Practices" on 2021-08-26.
 
 It is intended to:
-- show the expected structure of Python code
-- show how to use simple tools like `pylint`
+- show expected structure of Python code
+- encourage code reuse, sharing and safe storage
 - ensure work is accessible for CSCRC legal team
-- encourage code reuse and sharing
+- show how to use simple tools like `pylint`
 
 
 # Code Style & Quality
