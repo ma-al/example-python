@@ -42,7 +42,10 @@ Alternatively, use your favourite GUI Git tool, including:
 
 Once cloned, be sure to [change the remote URL](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url) to your own repository somewhere else.
 
-It's also probably easier for new users to [learn how to fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo.
+It's probably easier for new users to either:
+- [create a new repository from this template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template), or
+- [learn how to fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo
+
 
 
 
