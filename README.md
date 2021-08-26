@@ -8,6 +8,62 @@ It is intended to:
 - show how to use simple tools like `pylint`
 
 
+# Installation
+This module can be installed directly from GitHub.
+
+```bash
+# No username or password needed.
+pip install git+https://github.com/ma-al/example-python.git
+
+# note: only been tested on MacOS
+```
+
+Subsequently, the module will be downloaded and installed into your Python environment.
+
+If successful, you should see:
+
+```
+Successfully built example-python
+Installing collected packages: example-python
+Successfully installed example-python-0.0.1
+```
+
+
+# Cloning
+If you want to use this to start your own repo, simply clone it with below command:
+
+```bash
+git clone https://github.com/ma-al/example-python.git
+```
+
+Alternatively, use your favourite GUI Git tool, including:
+- [GitHub Desktop](https://desktop.github.com)
+- [SourceTree](https://www.sourcetreeapp.com)
+
+Once cloned, be sure to [change the remote URL](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url) to your own repository somewhere else.
+
+It's also probably easier for new users to [learn how to fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo.
+
+
+
+# Running
+If installed directly via `pip`:
+```bash
+# just run in any folder
+python -m example_python show-example
+```
+
+If you've cloned it:
+```bash
+cd example-python # go to repo root
+python -m example_python show-example
+```
+
+
+# Tests
+Researchers are encouraged to implement tests for their code. For more details, please see [documentation in the tests folder](./tests/README.md)
+
+
 # Code Style & Quality
 Researchers should strive for code quality that matches industry and community standards. Doing so leads to better science outcomes and easier sharing of knowledge.
 
