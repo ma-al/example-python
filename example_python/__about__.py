@@ -1,7 +1,7 @@
 '''
 Details about this Python package.
 '''
-__version__ = '1.0.0'
+__version__ = '1.1.0'
 
 __title__ = 'example-python'
 __author__ = 'Mahathir Almashor'
