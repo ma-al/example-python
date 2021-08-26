@@ -7,7 +7,7 @@ import setuptools
 with open('README.md', 'r') as f:
     LONG_DESCRIPTION = f.read()
 
-with open('LICENCE', 'r') as f:
+with open('LICENSE', 'r') as f:
     LICENCE_TEXT = f.read()
 
 import example_python.__about__ as about
