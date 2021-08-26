@@ -8,7 +8,7 @@
 # If you put any files inside the folders below, it will NOT be committed
 # data/
 # output/
-secrets/
+# secrets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
