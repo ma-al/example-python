@@ -1,5 +1,5 @@
 # Summary
-This is an an example Python code repository for members of Australia's [Cyber Security Cooperative Research Centre](https://cybersecuritycrc.org.au/). This was featured in the CSCRC seminar on "Software Best Practices" on 2021-08-26.
+This is an an example Python code repository for members of Australia's [Cyber Security Cooperative Research Centre](https://cybersecuritycrc.org.au/). This was featured in the CSCRC seminar on "Software Best Practices" on 2021-08-27.
 
 It is intended to:
 - show expected structure of Python code
@@ -25,7 +25,7 @@ If successful, you should see:
 ```
 Successfully built example-python
 Installing collected packages: example-python
-Successfully installed example-python-0.0.1
+Successfully installed example-python-1.1.0
 ```
 
 
@@ -88,8 +88,6 @@ List credits or references here, if applicable
 
 
 # People
-Please contact the following for help with this example repository:
+For help, please contact:
 - [Kerrie Jackson](mailto:kerrie.jackson@cybersecuritycrc.org.au)
 - [Mahathir Almashor](mailto:mahathir.almashor@data61.csiro.au)
-
-_(replace above with relevant contact details.)_
