@@ -25,6 +25,7 @@ dependencies:
   - pyyaml
   - pylint
   - pytest
+  - jupyter
 prefix: /Users/XXXX/miniconda3/envs/example-python # can delete this line (not needed)
 ```
 
