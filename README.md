@@ -1,12 +1,12 @@
 # Summary
-This is an an example Python code repository for members of Australia's [Cyber Security Cooperative Research Centre](https://cybersecuritycrc.org.au/). This was featured in the CSCRC seminar on "Software Best Practices" on 2021-08-27.
-
-It is intended to:
+This template repository is for anyone to use as a convenient starting point. It is intended to:
 - show expected structure of Python code
 - encourage code reuse, sharing and safe storage
-- ensure work is accessible for CSCRC legal team
 - show how to use simple tools like `pylint`
 
+This was originally for the [Cyber Security Cooperative Research Centre](https://cybersecuritycrc.org.au/), and was featured in the CSCRC seminar on "Software Best Practices" on 2021-08-27.
+- [slides](https://github.com/ma-al/example-python-extras/blob/main/data/slides.pdf)
+- (demonstration video to be added)
 
 # Installation
 This module can be installed directly from GitHub.
