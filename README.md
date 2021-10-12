@@ -6,8 +6,10 @@ This template repository is for anyone to use as a convenient starting point. It
 
 This was originally for the [Cyber Security Cooperative Research Centre](https://cybersecuritycrc.org.au/):
 - featured in the CSCRC seminar on "Software Best Practices" on 2021-08-27
+- [video (watch)](https://drive.google.com/file/d/1fKeV_TVLn7arRdYCLP1DCxCIRebIvfIx/view?usp=sharing)
+- [video (download)](https://github.com/ma-al/example-python-extras/tree/main/data/recording.mp4)
 - [slides](https://github.com/ma-al/example-python-extras/blob/main/data/slides.pdf)
-- (demonstration video to be added)
+
 
 # Installation
 This module can be installed directly from GitHub.
